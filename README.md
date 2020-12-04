@@ -1,14 +1,9 @@
-# TEAM repository
-This repostory contains cleaned code produced by IHME's TEAM team used to generate results for their publications.
+# Effects tobacco control policies - Nature Medicine - 2020
+This is repository contains cleaned code used to produce results for the paper: "Effects of tobacco control on global smoking prevalence" 
 
-## Navigating this repository
-By the time of each of our publications, cleaned code should be available in this repository. You can view the code for a particular publication by selecting the relevant banch from the dropdown menu, or by selecting a link below.
+### Additional info
+Data analyzed and generated as part of this study is available on IHME's [Global Health Data Exchange (GHDx)](http://internal-ghdx.healthdata.org/record/ihme-data/global-tobacco-control-and-smoking-prevalence-scenarios-2017) page. 
 
-### Links to recent publications
+## Other TEAM work
+To see other published LBD code repositories, please visit our [TEAM code homepage](https://github.com/ihmeuw/team)
 
-* [Effects of tobacco policies on global smoking prevalence - Nature Medicine - 2020](https://github.com/lsflor/test/tree/effects_tobacco_policies)
-
-
-## Links to IHME 
-
-* You may find the [main IHME website here](http://www.healthdata.org).
