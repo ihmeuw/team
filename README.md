@@ -6,7 +6,7 @@ By the time of each of our publications, cleaned code should be available in thi
 
 ### Links to recent publications
 
-* [Effects of tobacco policies on global smoking prevalence - Nature Medicine - 2020](https://github.com/lsflor/test/tree/effects_tobacco_policies)
+* [Effects of tobacco policies on global smoking prevalence - Nature Medicine - 2020](https://github.com/ihmeuw/tree/effects_tobacco_policies)
 
 
 ## Links to IHME 
