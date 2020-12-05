@@ -1,0 +1,6 @@
+id,equation
+ladop,logit(smoking_prev) ~ lag_rip + lag_per_p + lag_per_w + lag_per_e  +  (1+lag_rip|location_id)   
+ladopall,logit(smoking_prev) ~ lag_rip + lag_per_pwe  + (1+lag_rip|location_id)   
+lachiecom,logit(smoking_prev) ~ lag_rip + lag_p_achievement*lag_p_compliance +  lag_w_achievement + lag_e_achievement*lag_edirect_compliance  + (1+lag_rip|location_id) 
+lcompliance ,logit(smoking_prev) ~ lag_rip + lag_edirect_compliance + lag_eindirect_compliance + lag_p_compliance  + (1+lag_rip|location_id)   
+lachieve,logit(smoking_prev) ~ lag_rip + lag_p_achievement + lag_w_achievement + lag_e_achievement  +  (1+lag_rip|location_id)   
