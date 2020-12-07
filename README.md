@@ -1,4 +1,4 @@
-# Effects tobacco control policies - Nature Medicine - 2020
+# Effects tobacco control policies - 2020
 This is repository contains cleaned code used to produce results for the paper: "Effects of tobacco control on global smoking prevalence" 
 
 ### Additional info
